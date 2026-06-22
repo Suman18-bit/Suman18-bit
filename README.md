@@ -1,5 +1,9 @@
 # 💫 About Me:
-# Hi there, *I'm Suman*👋<br><br>I am a Data Science student passionately exploring the worlds of Machine Learning and Natural Language Processing. I love turning raw data into predictive insights and building intelligent systems from scratch.<br>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hello+I'm+Suman...;Data+Science;+Machine+Learning+Deep+Learning+AI !%F0%9F%A7%A0" alt="Typing SVG" />
+
+<br/>
 
 
 ## 🌐 Socials:
