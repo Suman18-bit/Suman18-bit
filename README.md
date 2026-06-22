@@ -1,10 +1,7 @@
 # 💫 About Me:
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hello+I'm+Suman...;Data+Science;+Machine+Learning+Deep+Learning+AI !%F0%9F%A7%A0" alt="Typing SVG" />
-
-<br/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hello+I'm+Suman...;Data+Science;Machine+Learning;Deep+Learning;AI+%F0%9F%A7%A0" alt="Typing SVG" />
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/suman.seth.0007) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/suman.seth.0007?igsh=MWJ5dDNhbzU2MWRnNw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suman-seth-b05417324 ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SumanSeth00018) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sethn533@gmail.com) 
