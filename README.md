@@ -116,26 +116,17 @@ me.say_hi()
 
 <div align="center">
 
+<!-- Main Stats & Streak -->
 <img src="https://github-readme-stats.vercel.app/api?username=Suman18-bit&theme=tokyonight&hide_border=true&show_icons=true&title_color=A855F7&icon_color=A855F7&bg_color=0d1117&text_color=ffffff" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=Suman18-bit&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&background=0d1117&sideNums=ffffff&sideLabels=A855F7&dates=ffffff" width="48%" />
 
 <br/><br/>
 
+<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman18-bit&theme=tokyonight&hide_border=true&layout=compact&title_color=A855F7&bg_color=0d1117&text_color=ffffff" width="40%" />
 
 </div>
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td align="center" style="border: none; background-color: transparent;">
-      <!-- Removed include_all_commits and count_private to prevent API timeouts -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Suman18-bit&theme=tokyonight&hide_border=true&show_icons=true&title_color=A855F7&icon_color=A855F7&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats" width="100%" />
-    </td>
-    <td align="center" style="border: none; background-color: transparent;">
-      <img src="https://streak-stats.demolab.com/?user=Suman18-bit&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&background=0d1117&sideNums=ffffff&sideLabels=A855F7&dates=ffffff" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ## 🏆 GitHub Trophies
 
