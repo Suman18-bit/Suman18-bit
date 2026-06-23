@@ -1,12 +1,9 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Suman%20Seth&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Data%20Scientist%20✦%20ML%20Engineer%20✦%20AI%20Builder&descAlignY=60&descColor=ffffff&descSize=20" width="100%" alt="Suman Seth Header"/>
-
 </div>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=A855F7&center=true&vCenter=true&width=700&height=55&lines=Hey+there!+I'm+Suman+Seth+👋;Turning+Raw+Data+into+Real+Intelligence+🧠;Machine+Learning+Engineer+🤖;Deep+Learning+%26+NLP+Enthusiast+💡;Building+AI+that+actually+works+🚀;Open+to+Internships+%26+Full-time+Roles+💼" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=800&color=A855F7&center=true&vCenter=true&width=700&height=55&lines=Hey+there!+I'm+Suman+Seth+👋;Turning+Raw+Data+into+Real+Intelligence+🧠;Machine+Learning+Engineer+🤖;Deep+Learning+%26+NLP+Enthusiast+💡;Builds+that+actually+works+🚀;Open+to+Internships+%26+Full-time+Roles+💼)](https://git.io/typing-svg)
 
 </div>
 
