@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=800&color=A855F7&center=true&vCenter=true&width=700&height=55&lines=Hey+there!+I'm+Suman+Seth+👋;Turning+Raw+Data+into+Real+Intelligence+🧠;Machine+Learning+Engineer+🤖;Deep+Learning+%26+NLP+Enthusiast+💡;Builds+that+actually+works+🚀;Open+to+Internships+%26+Full-time+Roles+💼)](https://git.io/typing-svg)
 
 </div>
-
+       
 <br/>
       
 <div align="center">
