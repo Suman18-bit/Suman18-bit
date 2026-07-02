@@ -192,31 +192,85 @@ print(me.say_hi())
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Divider"/>
 
-<!-- ─────────────────────────── FEATURED PROJECTS ─────────────────────────── -->
+<!-- ─────────────────────────── SOME REPO(WORKS) ─────────────────────────── -->
 
 ## <img src="https://media.giphy.com/media/W5eKZfMSK7pDgOOP2j/giphy.gif" width="30"/> Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Suman18-bit/Deep-Learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=Deep-Learning&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="48%" alt="Deep Learning" />
-</a>
-<a href="https://github.com/Suman18-bit/NLP_CHALANGES">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=NLP_CHALANGES&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="48%" alt="NLP Challenges" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🗣️ NLP — Natural Language Processing</h3>
+      <div align="center">
+        <a href="https://github.com/Suman18-bit/NLP---Natural-Language-Processing-">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=NLP---Natural-Language-Processing-&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="NLP" />
+        </a>
+        <p><i>Hands-on NLP challenges — tokenization, embeddings, transformers & sentiment analysis.</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+          <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square"/>
+          <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Deep Learning</h3>
+      <div align="center">
+        <a href="https://github.com/Suman18-bit/Deep-Learning">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=Deep-Learning&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="Deep Learning" />
+        </a>
+        <p><i>Neural network experiments — CNNs, RNNs, LSTMs, and modern DL architectures.</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ TensorTonic Solutions</h3>
+      <div align="center">
+        <a href="https://github.com/Suman18-bit/TensorTonic-Solutions">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=TensorTonic-Solutions&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="TensorTonic" />
+        </a>
+        <p><i>My solutions to TensorTonic ML problems — clean, well-documented Python.</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 Generative AI</h3>
+      <div align="center">
+        <a href="https://github.com/Suman18-bit/Genretive-AI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=Genretive-AI&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="Generative AI" />
+        </a>
+        <p><i>A creative hub for cutting-edge ML, NLP & AI-driven innovation experiments.</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black"/>
+          <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/Suman18-bit/Movie-Recommendation-System-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=Movie-Recommendation-System-&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="48%" alt="Movie Recommendation System" />
-</a>
-<a href="https://github.com/Suman18-bit/TensorTonic-Solutions">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=TensorTonic-Solutions&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="48%" alt="TensorTonic Solutions" />
+<a href="https://github.com/Suman18-bit?tab=repositories">
+  <img src="https://img.shields.io/badge/🔎%20Explore%20All%20Repositories-A855F7?style=for-the-badge&labelColor=0d1117" alt="View All Repos"/>
 </a>
 
 </div>
 
 <br/>
+
 
 <!-- ─────────────────────────── QUOTE ─────────────────────────── -->
 
