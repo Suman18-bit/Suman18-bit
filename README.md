@@ -201,7 +201,7 @@ print(me.say_hi())
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🗣️ NLP — Natural Language Processing</h3>
+      <h3 align="center">🗣️NLP---Natural-Language-Processing-</h3>
       <div align="center">
         <a href="https://github.com/Suman18-bit/NLP---Natural-Language-Processing-">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=NLP---Natural-Language-Processing-&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="NLP" />
@@ -245,7 +245,7 @@ print(me.say_hi())
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 Generative AI</h3>
+      <h3 align="center">🎨 Genretive-AI</h3>
       <div align="center">
         <a href="https://github.com/Suman18-bit/Genretive-AI">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=Genretive-AI&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="Generative AI" />
