@@ -1,20 +1,19 @@
-
 <!-- ══════════════════════════════════════════════════════════════════════════════
                           ✨ SUMAN SETH — GITHUB PROFILE ✨
                     Data Scientist ✦ ML Engineer ✦ AI Builder
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=300&section=header&text=Suman%20Seth&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=✦%20Data%20Scientist%20✦%20ML%20Engineer%20✦%20AI%20Builder%20✦&descAlignY=58&descSize=18" width="100%" alt="Suman Seth Header"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=280&section=header&text=Suman%20Seth&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=✦%20Data%20Scientist%20✦%20ML%20Engineer%20✦%20AI%20Builder%20✦&descAlignY=58&descSize=18" width="100%" alt="Suman Seth Header"/>
 
 </div>
 
 <!-- ─────────────────────────── ANIMATED TYPING INTRO ─────────────────────────── -->
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=800&height=60&lines=Hey+there!+I'm+Suman+Seth+👋;Turning+Raw+Data+into+Real+Intelligence+🧠;Machine+Learning+Engineer+🤖;Deep+Learning+%26+NLP+Enthusiast+💡;Building+AI+that+actually+works+🚀;Open+to+Internships+%26+Full-time+Roles+💼)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=780&height=60&lines=Hey+there!+I'm+Suman+Seth+👋;Turning+Raw+Data+into+Real+Intelligence+🧠;Machine+Learning+Engineer+🤖;LangChain+%2B+RAG+%2B+LLM+Enthusiast+💡;Building+AI+that+actually+works+🚀;Open+to+Internships+%26+Full-time+Roles+💼)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +22,7 @@
 <!-- ─────────────────────────── SOCIAL BADGES ─────────────────────────── -->
 
 <div align="center">
-  
+
 <a href="https://www.linkedin.com/in/suman-seth-b05417324"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sethn533@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.instagram.com/suman.seth.0007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -40,8 +39,6 @@
 
 <br/>
 
-<!-- ─────────────────────────── DIVIDER ─────────────────────────── -->
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
 
 <!-- ─────────────────────────── ABOUT ME ─────────────────────────── -->
@@ -57,12 +54,13 @@ class SumanSeth:
     """
     def __init__(self):
         self.name        = "Suman Seth"
-        self.role        = "Data Scientist & ML Engineer"
+        self.role        = "B.Tech CSE Student | Data Scientist & ML Engineer"
         self.location    = "India 🇮🇳"
+        self.education   = "Swami Vivekananda University (Class of 2028)"
         self.languages   = ["Python", "C", "C++", "Kotlin", "PHP"]
-        self.ai_stack    = ["TensorFlow", "PyTorch", "Keras", "scikit-learn"]
-        self.interests   = ["ML", "Deep Learning", "NLP", "Computer Vision"]
-        self.tools       = ["Docker", "FastAPI", "Streamlit", "Gradio"]
+        self.ai_stack    = ["TensorFlow", "PyTorch", "Keras", "scikit-learn", "LangChain"]
+        self.interests   = ["Generative AI", "RAG Pipelines", "LLM Engineering", "NLP"]
+        self.tools       = ["Docker", "FastAPI", "Streamlit", "ChromaDB"]
         self.currently   = "🚀 Building AI-powered real-world projects"
         self.open_to     = "💼 Internships & Full-time AI/ML roles"
 
@@ -83,11 +81,11 @@ print(me.say_hi())
 
 | 🔭 Currently Working On | 🌱 Currently Learning |
 | :---: | :---: |
-| **AI & Deep Learning** real-world applications | **LLMs, Transformers & Computer Vision** |
+| **RAG pipelines & LangChain-based AI apps** | **LLM Orchestration, Transformers & Computer Vision** |
 
 | 💬 Ask Me About | 📫 How To Reach Me |
 | :---: | :---: |
-| Python · ML · NLP · Neural Networks | [sethn533@gmail.com](mailto:sethn533@gmail.com) |
+| Python · LangChain · RAG · NLP · Neural Networks | [sethn533@gmail.com](mailto:sethn533@gmail.com) |
 
 | ⚡ Fun Fact | 🎯 2026 Goal |
 | :---: | :---: |
@@ -110,12 +108,12 @@ print(me.say_hi())
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" alt="AI Stack"/>
 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 <br/>
@@ -125,6 +123,8 @@ print(me.say_hi())
 <img src="https://skillicons.dev/icons?i=fastapi,django,html,css,js,php&theme=dark" alt="Web Stack"/>
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 
 <br/>
@@ -146,7 +146,7 @@ print(me.say_hi())
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> GitHub Analytics
 
 <div align="center">
-  
+
 <a href="https://github.com/Suman18-bit">
   <img src="https://github-readme-stats.vercel.app/api?username=Suman18-bit&theme=tokyonight&hide_border=true&show_icons=true&title_color=A855F7&icon_color=A855F7&bg_color=0d1117&text_color=ffffff&rank_icon=github" width="48%" alt="GitHub Stats" />
 </a>
@@ -172,7 +172,7 @@ print(me.say_hi())
 ## <img src="https://media.giphy.com/media/RN2Uf7BvVaes8/giphy.gif" width="30"/> Achievements & Activity
 
 <div align="center">
-  
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Suman18-bit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" />
 </a>
@@ -192,7 +192,7 @@ print(me.say_hi())
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Divider"/>
 
-<!-- ─────────────────────────── SOME REPO(WORKS) ─────────────────────────── -->
+<!-- ─────────────────────────── FEATURED PROJECTS ─────────────────────────── -->
 
 ## <img src="https://media.giphy.com/media/W5eKZfMSK7pDgOOP2j/giphy.gif" width="30"/> Featured Projects
 
@@ -201,7 +201,37 @@ print(me.say_hi())
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🗣️NLP---Natural-Language-Processing-</h3>
+      <h3 align="center">📖 AskMyBook</h3>
+      <div align="center">
+        <a href="https://github.com/Suman18-bit/DEPLOY_REPO">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=DEPLOY_REPO&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="AskMyBook" />
+        </a>
+        <p><i>A deployed RAG web app that lets you chat with a book — FastAPI backend + Mistral AI + ChromaDB, live on Vercel.</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Mistral%20AI-FF7000?style=flat-square&logoColor=white"/>
+          <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Deep Learning</h3>
+      <div align="center">
+        <a href="https://github.com/Suman18-bit/Deep-Learning">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=Deep-Learning&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="Deep Learning" />
+        </a>
+        <p><i>Neural network architectures from scratch — Perceptron, ANN, CNN, RNN & LSTM.</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🗣️ NLP — Natural Language Processing</h3>
       <div align="center">
         <a href="https://github.com/Suman18-bit/NLP---Natural-Language-Processing-">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=NLP---Natural-Language-Processing-&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="NLP" />
@@ -215,46 +245,16 @@ print(me.say_hi())
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Deep Learning</h3>
+      <h3 align="center">🎨 Artificial-Intelligence</h3>
       <div align="center">
-        <a href="https://github.com/Suman18-bit/Deep-Learning">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=Deep-Learning&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="Deep Learning" />
+        <a href="https://github.com/Suman18-bit/Artificial-Intelligence">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=Artificial-Intelligence&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="Artificial Intelligence" />
         </a>
-        <p><i>Neural network experiments — CNNs, RNNs, LSTMs, and modern DL architectures.</i></p>
+        <p><i>A creative hub for LangChain, RAG pipelines & generative AI experiments.</i></p>
         <p>
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ TensorTonic Solutions</h3>
-      <div align="center">
-        <a href="https://github.com/Suman18-bit/TensorTonic-Solutions">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=TensorTonic-Solutions&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="TensorTonic" />
-        </a>
-        <p><i>My solutions to TensorTonic ML problems — clean, well-documented Python.</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Genretive-AI</h3>
-      <div align="center">
-        <a href="https://github.com/Suman18-bit/Genretive-AI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=Genretive-AI&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="Generative AI" />
-        </a>
-        <p><i>A creative hub for cutting-edge ML, NLP & AI-driven innovation experiments.</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black"/>
           <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+          <img src="https://img.shields.io/badge/RAG-AA00FF?style=flat-square&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Mistral%20AI-FF7000?style=flat-square&logoColor=white"/>
         </p>
       </div>
     </td>
@@ -271,13 +271,12 @@ print(me.say_hi())
 
 <br/>
 
-
 <!-- ─────────────────────────── QUOTE ─────────────────────────── -->
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Dev Quote of the Day
 
 <div align="center">
-  
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 </div>
@@ -313,7 +312,7 @@ print(me.say_hi())
 <!-- ─────────────────────────── FOOTER ─────────────────────────── -->
 
 <div align="center">
-  
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=160&section=footer&text=Thanks%20for%20Visiting!%20⭐&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" alt="Footer"/>
 
 <br/>
