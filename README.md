@@ -1,3 +1,4 @@
+
 <!-- ══════════════════════════════════════════════════════════════════════════════
                           ✨ SUMAN SETH — GITHUB PROFILE ✨
               Software Engineer ✦ Data Scientist ✦ ML Engineer ✦ AI Builder
@@ -25,8 +26,8 @@
 
 <a href="https://www.linkedin.com/in/suman-seth-b05417324"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sethn533@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.instagram.com/suman.seth.0007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://x.com/SumanSeth00018"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.instagram.com/suman.seth.0007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.facebook.com/suman.seth.0007"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
 <br/><br/>
@@ -37,9 +38,9 @@
 
 </div>
 
-<br/>
-
+<!-- ─────────────────────────── SLEEK DIVIDER ─────────────────────────── -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
+
 
 <!-- ─────────────────────────── ABOUT ME ─────────────────────────── -->
 
@@ -48,21 +49,24 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Coding GIF"/>
 
 ```python
+from dataclasses import dataclass, field
+from typing import List
+
+@dataclass
 class SumanSeth:
     """
     Software Engineer & AI builder turning raw data into intelligent decisions.
     """
-    def __init__(self):
-        self.name        = "Suman Seth"
-        self.role        = "B.Tech CSE Student | Software Engineer | Data Scientist & ML Engineer"
-        self.location    = "India 🇮🇳"
-        self.education   = "Swami Vivekananda University (Class of 2028)"
-        self.languages   = ["Python", "C", "C++", "Kotlin", "PHP"]
-        self.dev_stack   = ["FastAPI", "Streamlit", "Docker", "Git", "REST APIs"]
-        self.ai_stack    = ["TensorFlow", "PyTorch", "Keras", "scikit-learn", "LangChain"]
-        self.interests   = ["Generative AI", "RAG Pipelines", "LLM Engineering", "NLP"]
-        self.currently   = "🚀 Building and shipping AI-powered real-world applications"
-        self.open_to     = "💼 Software Engineering & AI/ML Internships / Full-time Roles"
+    name: str = "Suman Seth"
+    role: str = "B.Tech CSE Student | Software Engineer | Data Scientist & ML Engineer"
+    location: str = "India 🇮🇳"
+    education: str = "Swami Vivekananda University (Class of 2028)"
+    languages: List[str] = field(default_factory=lambda: ["Python", "C", "C++", "Kotlin", "PHP"])
+    dev_stack: List[str] = field(default_factory=lambda: ["FastAPI", "Streamlit", "Docker", "Git", "REST APIs"])
+    ai_stack: List[str] = field(default_factory=lambda: ["TensorFlow", "PyTorch", "Keras", "scikit-learn", "LangChain"])
+    interests: List[str] = field(default_factory=lambda: ["Generative AI", "RAG Pipelines", "LLM Engineering", "NLP"])
+    currently: str = "🚀 Building and shipping AI-powered real-world applications"
+    open_to: str = "💼 Software Engineering & AI/ML Internships / Full-time Roles"
 
     def say_hi(self) -> str:
         return "Thanks for visiting! Let's build something amazing 🤝"
@@ -93,9 +97,8 @@ print(me.say_hi())
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Divider"/>
 
 <!-- ─────────────────────────── TECH STACK ─────────────────────────── -->
 
@@ -104,65 +107,71 @@ print(me.say_hi())
 <div align="center">
 
 ### 💻 Software Engineering · Backend · Deployment
+<img src="https://skillicons.dev/icons?i=fastapi,django,html,css,js,php,docker,vercel&theme=dark" alt="Web Stack"/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,html,css,js,php&theme=dark" alt="Web Stack"/>
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
 
 <br/>
 
 ### 🤖 AI · ML · Data Science
-
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" alt="AI Stack"/>
 
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 <br/>
 
 ### 🛠️ Languages · Tools · Cloud
+<img src="https://skillicons.dev/icons?i=c,cpp,kotlin,git,github,gcp,postgres,vscode,linux&theme=dark" alt="Tools"/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,kotlin,docker,git,github,gcp,postgres,vscode,linux&theme=dark" alt="Tools"/>
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
+
 
 <!-- ─────────────────────────── GITHUB ANALYTICS ─────────────────────────── -->
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> GitHub Analytics
 
 <div align="center">
-
-<a href="https://github.com/Suman18-bit">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suman18-bit&theme=tokyonight&hide_border=true&show_icons=true&title_color=A855F7&icon_color=A855F7&bg_color=0d1117&text_color=ffffff&rank_icon=github" width="48%" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Suman18-bit">
-  <img src="https://streak-stats.demolab.com/?user=Suman18-bit&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&background=0d1117&sideNums=ffffff&sideLabels=A855F7&dates=ffffff" width="48%" alt="GitHub Streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Suman18-bit">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman18-bit&theme=tokyonight&hide_border=true&layout=donut&title_color=A855F7&bg_color=0d1117&text_color=ffffff&langs_count=8" width="48%" alt="Top Languages" />
-</a>
-<a href="https://github.com/Suman18-bit">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suman18-bit&theme=tokyonight&utcOffset=5.5" width="48%" alt="Productive Time"/>
-</a>
+  
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/Suman18-bit">
+        <img src="https://github-readme-stats.vercel.app/api?username=Suman18-bit&theme=tokyonight&hide_border=true&show_icons=true&title_color=A855F7&icon_color=A855F7&bg_color=0d1117&text_color=ffffff&rank_icon=github" width="95%" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/Suman18-bit">
+        <img src="https://streak-stats.demolab.com/?user=Suman18-bit&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&background=0d1117&sideNums=ffffff&sideLabels=A855F7&dates=ffffff" width="95%" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/Suman18-bit">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman18-bit&theme=tokyonight&hide_border=true&layout=donut&title_color=A855F7&bg_color=0d1117&text_color=ffffff&langs_count=8" width="95%" alt="Top Languages" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/Suman18-bit">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suman18-bit&theme=tokyonight&utcOffset=5.5" width="95%" alt="Productive Time"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -189,9 +198,8 @@ print(me.say_hi())
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Divider"/>
 
 <!-- ─────────────────────────── FEATURED PROJECTS ─────────────────────────── -->
 
@@ -199,7 +207,7 @@ print(me.say_hi())
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="20" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">📖 AskMyBook</h3>
@@ -270,7 +278,8 @@ print(me.say_hi())
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
+
 
 <!-- ─────────────────────────── QUOTE ─────────────────────────── -->
 
@@ -283,8 +292,6 @@ print(me.say_hi())
 </div>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
 
 <!-- ─────────────────────────── CONNECT ─────────────────────────── -->
 
