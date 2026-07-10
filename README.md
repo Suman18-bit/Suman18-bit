@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=280&section=header&text=Suman%20Seth&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=✦%20Data%20Scientist%20✦%20ML%20Engineer%20✦%20AI%20Builder%20✦&descAlignY=58&descSize=18" width="100%" alt="Suman Seth Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=280&section=header&text=Suman%20Seth&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=✦%20Data%20Scientist%20✦%20ML%20Engineer%20✦%20AI%20Builder%20✦r%20✦%20Software%20Engineer%20&descAlignY=58&descSize=18" width="100%" alt="Suman Seth Header"/>
 
 </div>
 
