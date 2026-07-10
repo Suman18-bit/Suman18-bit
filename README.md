@@ -1,11 +1,11 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════
                           ✨ SUMAN SETH — GITHUB PROFILE ✨
-                    Data Scientist ✦ ML Engineer ✦ AI Builder
+              Software Engineer ✦ Data Scientist ✦ ML Engineer ✦ AI Builder
      ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=280&section=header&text=Suman%20Seth&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=✦%20Data%20Scientist%20✦%20ML%20Engineer%20✦%20AI%20Builder%20✦%20Software%20Engineer%20✦&descAlignY=58&descSize=18" width="100%" alt="Suman Seth Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=280&section=header&text=Suman%20Seth&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=✦%20Software%20Engineer%20✦%20Data%20Scientist%20✦%20ML%20Engineer%20✦%20AI%20Builder%20✦&descAlignY=58&descSize=18" width="100%" alt="Suman Seth Header"/>
 
 </div>
 
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=780&height=60&lines=Hey+there!+I'm+Suman+Seth+👋;Turning+Raw+Data+into+Real+Intelligence+🧠;Machine+Learning+Engineer+🤖;LangChain+%2B+RAG+%2B+LLM+Enthusiast+💡;Building+AI+that+actually+works+🚀;Open+to+Internships+%26+Full-time+Roles+💼)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=780&height=60&lines=Hey+there!+I'm+Suman+Seth+👋;Software+Engineer+%7C+AI%2FML+Builder+💻;Turning+Raw+Data+into+Real+Intelligence+🧠;LangChain+%2B+RAG+%2B+LLM+Enthusiast+💡;Building+AI+that+actually+works+🚀;Open+to+Internships+%26+Full-time+Roles+💼)](https://git.io/typing-svg)
 
 </div>
 
@@ -50,19 +50,19 @@
 ```python
 class SumanSeth:
     """
-    A passionate AI builder turning raw data into intelligent decisions.
+    Software Engineer & AI builder turning raw data into intelligent decisions.
     """
     def __init__(self):
         self.name        = "Suman Seth"
-        self.role        = "B.Tech CSE Student | Data Scientist & ML Engineer"
+        self.role        = "B.Tech CSE Student | Software Engineer | Data Scientist & ML Engineer"
         self.location    = "India 🇮🇳"
         self.education   = "Swami Vivekananda University (Class of 2028)"
         self.languages   = ["Python", "C", "C++", "Kotlin", "PHP"]
+        self.dev_stack   = ["FastAPI", "Streamlit", "Docker", "Git", "REST APIs"]
         self.ai_stack    = ["TensorFlow", "PyTorch", "Keras", "scikit-learn", "LangChain"]
         self.interests   = ["Generative AI", "RAG Pipelines", "LLM Engineering", "NLP"]
-        self.tools       = ["Docker", "FastAPI", "Streamlit", "ChromaDB"]
-        self.currently   = "🚀 Building AI-powered real-world projects"
-        self.open_to     = "💼 Internships & Full-time AI/ML roles"
+        self.currently   = "🚀 Building and shipping AI-powered real-world applications"
+        self.open_to     = "💼 Software Engineering & AI/ML Internships / Full-time Roles"
 
     def say_hi(self) -> str:
         return "Thanks for visiting! Let's build something amazing 🤝"
@@ -79,17 +79,17 @@ print(me.say_hi())
 
 <div align="center">
 
-| 🔭 Currently Working On | 🌱 Currently Learning |
+| 💻 Role | 🔭 Currently Working On |
 | :---: | :---: |
-| **RAG pipelines & LangChain-based AI apps** | **LLM Orchestration, Transformers & Computer Vision** |
+| **Software Engineer · AI/ML Engineer** | **RAG pipelines & LangChain-based AI apps** |
 
-| 💬 Ask Me About | 📫 How To Reach Me |
+| 🌱 Currently Learning | 💬 Ask Me About |
 | :---: | :---: |
-| Python · LangChain · RAG · NLP · Neural Networks | [sethn533@gmail.com](mailto:sethn533@gmail.com) |
+| **LLM Orchestration, Transformers & System Design** | Python · FastAPI · LangChain · RAG · NLP |
 
-| ⚡ Fun Fact | 🎯 2026 Goal |
+| 📫 How To Reach Me | 🎯 2026 Goal |
 | :---: | :---: |
-| I debug faster with music 🎧 | Ship 3 production-grade AI apps 🚀 |
+| [sethn533@gmail.com](mailto:sethn533@gmail.com) | Ship 3 production-grade AI apps 🚀 |
 
 </div>
 
@@ -103,6 +103,18 @@ print(me.say_hi())
 
 <div align="center">
 
+### 💻 Software Engineering · Backend · Deployment
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,html,css,js,php&theme=dark" alt="Web Stack"/>
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+<br/>
+
 ### 🤖 AI · ML · Data Science
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" alt="AI Stack"/>
@@ -115,17 +127,6 @@ print(me.say_hi())
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-<br/>
-
-### 🌐 Web · Backend · Deployment
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,html,css,js,php&theme=dark" alt="Web Stack"/>
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 
 <br/>
 
@@ -206,7 +207,7 @@ print(me.say_hi())
         <a href="https://github.com/Suman18-bit/DEPLOY_REPO">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=DEPLOY_REPO&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="AskMyBook" />
         </a>
-        <p><i>A deployed RAG web app that lets you chat with a book — FastAPI backend + Mistral AI + ChromaDB, live on Vercel.</i></p>
+        <p><i>A deployed full-stack RAG web app that lets you chat with a book — FastAPI backend + Mistral AI + ChromaDB, live on Vercel.</i></p>
         <p>
           <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
           <img src="https://img.shields.io/badge/Mistral%20AI-FF7000?style=flat-square&logoColor=white"/>
