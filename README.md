@@ -130,55 +130,113 @@ print(me.say_hi())
 <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168, 85, 247, 0), rgba(168, 85, 247, 0.75), rgba(34, 211, 238, 0.75), rgba(168, 85, 247, 0)); margin: 20px 0;">
 
 <!-- ─────────────────────────── VERIFIED CREDENTIALS ─────────────────────────── -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="30" valign="middle"/> 
+  Verified Credentials
+</h2>
 
-## <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="35"/> Verified Credentials
-
-<div align="center">
-<i>17 industry-recognized certifications validating expertise in AI, ML, Data Engineering, and Professional Skills.</i>
-<br/><br/>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 AI, ML & NLP</h3>
-      <div align="left">
-        <ul>
-          <li><a href="https://www.linkedin.com/learning/certificates/bf465ef58a51fc2316cc5399ad74ff0ab61fbeaf8907ce5cfe39f466ef211fb4?trk=share_certificate">Advance Your Skills in NLP</a> <b>(LinkedIn)</b></li>
-          <li><a href="https://www.linkedin.com/learning/certificates/3b23642d05e7a30aaae43aeadad8927b34f03aefe9200262ced2f4691ed79d1b?trk=share_certificate">Generative AI: Working with LLMs</a> <b>(LinkedIn)</b></li>
-          <li><a href="https://www.linkedin.com/learning/certificates/0c520073b3f55c9687976932f12c9d4697c71d5b49084f3ba580fb9a66013cd0?trk=share_certificate">Deep Learning with TensorFlow</a> <b>(LinkedIn)</b></li>
-          <li><a href="https://www.linkedin.com/learning/certificates/5c92b2dde5ae0edb8eb46d8e95c2e50b8f6c8f41398878984aa44f07b6bb46e3?trk=share_certificate">Hands-On NLP</a> <b>(LinkedIn)</b></li>
-          <li><a href="https://www.linkedin.com/learning/certificates/78a04c2472c416fae55808f62117ffc817619a63dd7fd3c6b944b3c33c07fc1e">Advanced NLP with Python for ML</a> <b>(LinkedIn)</b></li>
-          <li><a href="https://www.credly.com/badges/e8143d80-3a84-4e47-9ae8-3f5d7ec8e984/public_url">AI Skills Fest 2026</a> <b>(Microsoft)</b></li>
-          <li><a href="https://learn.saylor.org/pluginfile.php/1/tool_certificate/issues/1780985338/2581125304SS.pdf">Fundamentals of Machine Learning</a> <b>(Saylor)</b></li>
-          <li><a href="https://www.mygreatlearning.com/certificate/QEXVYHTL?referrer_code=GLKQH7LG">Python for Machine Learning</a> <b>(Great Learning)</b></li>
-          <li><a href="https://www.credly.com/badges/a3f6b4fb-84ce-4ae2-960b-48a0b289c06d">AI Upskilling: Technical Foundations</a> <b>(Qualcomm)</b></li>
-        </ul>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Data, Systems & Core Skills</h3>
-      <div align="left">
-        <ul>
-          <li><a href="https://learn.microsoft.com/api/achievements/share/en-us/SUMANSETH-3817/NQVJSKKF?sharingId=F1049524A3B932C3">Data Engineer Career Path</a> <b>(Microsoft)</b></li>
-          <li><a href="https://www.linkedin.com/learning/certificates/3fcc504c1071c3bb201fd3345c9da44095df158dd046a537b82d56a2ffa4d4f2/">Career Skills in Data Analytics</a> <b>(LinkedIn)</b></li>
-          <li><a href="https://simpli.app.link/uXChgFNuq3b">Introduction to SQL</a> <b>(Simplilearn)</b></li>
-          <li><a href="https://simpli.app.link/CWctT2FWp3b">Business Analytics with Excel</a> <b>(Microsoft)</b></li>
-          <li><a href="https://unstop.com/certificate-preview/9595621f-fc33-476a-95a2-0a731d4df349">Operating System (OS)</a> <b>(Unstop)</b></li>
-          <li><a href="https://unstop.com/certificate-preview/3dae90d3-b82f-4924-8df7-8157d182d804">Probability</a> <b>(Unstop)</b></li>
-          <li>Professional Networking for Career Growth <b>(HP)</b></li>
-          <li><a href="https://unstop.com/certificate-preview/8b1f0131-5ea6-4ba7-acea-98c9fa17fb14">Kascade, Kshitij 2026 — Participation</a> <b>(Unstop)</b></li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <i>17 industry-recognized certifications validating expertise in AI, ML, Data Engineering, and Professional Skills.</i>
+</p>
 
 <br/>
 
-<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168, 85, 247, 0), rgba(168, 85, 247, 0.75), rgba(34, 211, 238, 0.75), rgba(168, 85, 247, 0)); margin: 20px 0;">
+<table width="100%">
+  <tr>
+    <th align="left">#</th>
+    <th align="left">Certification</th>
+    <th align="left">Issuer</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><a href="https://www.linkedin.com/learning/certificates/bf465ef58a51fc2316cc5399ad74ff0ab61fbeaf8907ce5cfe39f466ef211fb4?trk=share_certificate">Advance Your Skills in NLP</a></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #0A66C2) drop-shadow(0px 0px 8px #0A66C2);" valign="middle"/> LinkedIn</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><a href="https://www.linkedin.com/learning/certificates/3b23642d05e7a30aaae43aeadad8927b34f03aefe9200262ced2f4691ed79d1b?trk=share_certificate">Generative AI: Working with LLMs</a></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #0A66C2) drop-shadow(0px 0px 8px #0A66C2);" valign="middle"/> LinkedIn</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><a href="https://www.linkedin.com/learning/certificates/0c520073b3f55c9687976932f12c9d4697c71d5b49084f3ba580fb9a66013cd0?trk=share_certificate">Deep Learning with TensorFlow</a></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #0A66C2) drop-shadow(0px 0px 8px #0A66C2);" valign="middle"/> LinkedIn</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td><a href="https://www.linkedin.com/learning/certificates/5c92b2dde5ae0edb8eb46d8e95c2e50b8f6c8f41398878984aa44f07b6bb46e3?trk=share_certificate">Hands-On NLP</a></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #0A66C2) drop-shadow(0px 0px 8px #0A66C2);" valign="middle"/> LinkedIn</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td><a href="https://www.linkedin.com/learning/certificates/78a04c2472c416fae55808f62117ffc817619a63dd7fd3c6b944b3c33c07fc1e">Advanced NLP with Python for ML</a></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #0A66C2) drop-shadow(0px 0px 8px #0A66C2);" valign="middle"/> LinkedIn</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td><a href="https://www.credly.com/badges/e8143d80-3a84-4e47-9ae8-3f5d7ec8e984/public_url">AI Skills Fest 2026</a></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoft.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #F25022) drop-shadow(0px 0px 8px #F25022);" valign="middle"/> Microsoft</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td><a href="https://learn.saylor.org/pluginfile.php/1/tool_certificate/issues/1780985338/2581125304SS.pdf">Fundamentals of Machine Learning</a></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/readthedocs.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #8CA1AF) drop-shadow(0px 0px 8px #8CA1AF);" valign="middle"/> Saylor University</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td><a href="https://www.mygreatlearning.com/certificate/QEXVYHTL?referrer_code=GLKQH7LG">Python for Machine Learning</a></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #4285F4) drop-shadow(0px 0px 8px #4285F4);" valign="middle"/> Great Learning</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td><a href="https://www.credly.com/badges/a3f6b4fb-84ce-4ae2-960b-48a0b289c06d">AI Upskilling: Technical Foundations</a></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/qualcomm.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #3253DC) drop-shadow(0px 0px 8px #3253DC);" valign="middle"/> Qualcomm</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td><a href="https://learn.microsoft.com/api/achievements/share/en-us/SUMANSETH-3817/NQVJSKKF?sharingId=F1049524A3B932C3">Data Engineer Career Path</a></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoft.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #F25022) drop-shadow(0px 0px 8px #F25022);" valign="middle"/> Microsoft</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td><a href="https://www.linkedin.com/learning/certificates/3fcc504c1071c3bb201fd3345c9da44095df158dd046a537b82d56a2ffa4d4f2/">Career Skills in Data Analytics</a></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #0A66C2) drop-shadow(0px 0px 8px #0A66C2);" valign="middle"/> LinkedIn</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td><a href="https://simpli.app.link/uXChgFNuq3b">Introduction to SQL</a></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #FF3621) drop-shadow(0px 0px 8px #FF3621);" valign="middle"/> Simplilearn</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td><a href="https://simpli.app.link/CWctT2FWp3b">Business Analytics with Excel</a></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #107C41) drop-shadow(0px 0px 8px #107C41);" valign="middle"/> Microsoft</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td><a href="https://unstop.com/certificate-preview/9595621f-fc33-476a-95a2-0a731d4df349">Operating System (OS)</a></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gnubash.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #4EAA25) drop-shadow(0px 0px 8px #4EAA25);" valign="middle"/> Unstop</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td><a href="https://unstop.com/certificate-preview/3dae90d3-b82f-4924-8df7-8157d182d804">Probability Foundations</a></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wolframmathematica.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #DD1111) drop-shadow(0px 0px 8px #DD1111);" valign="middle"/> Unstop</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>Professional Networking</td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hp.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #0096D6) drop-shadow(0px 0px 8px #0096D6);" valign="middle"/> HP</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td><a href="https://unstop.com/certificate-preview/8b1f0131-5ea6-4ba7-acea-98c9fa17fb14">Kascade, Kshitij 2026</a></td>
+    <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/starship.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #0052CC) drop-shadow(0px 0px 8px #0052CC);" valign="middle"/> Unstop</td>
+  </tr>
+</table>
 
+<br/>
+
+<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168, 85, 247, 0), rgba(168, 85, 247, 0.75), rgba(34, 211, 238, 0.75), rgba(168, 85, 247, 0)); margin: 20px 0;">g
 <!-- ─────────────────────────── GITHUB ANALYTICS ─────────────────────────── -->
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
