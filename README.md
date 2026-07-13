@@ -180,30 +180,29 @@ print(me.say_hi())
 <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168, 85, 247, 0), rgba(168, 85, 247, 0.75), rgba(34, 211, 238, 0.75), rgba(168, 85, 247, 0)); margin: 20px 0;">
 
 <!-- ─────────────────────────── GITHUB ANALYTICS ─────────────────────────── -->
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> GitHub Analytics
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <div align="center">
 
-<a href="https://github.com/Suman18-bit">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suman18-bit&theme=tokyonight&hide_border=true&show_icons=true&title_color=A855F7&icon_color=A855F7&bg_color=0d1117&text_color=ffffff&rank_icon=github" width="48%" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Suman18-bit">
-  <img src="https://streak-stats.demolab.com/?user=Suman18-bit&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&background=0d1117&sideNums=ffffff&sideLabels=A855F7&dates=ffffff" width="48%" alt="GitHub Streak" />
-</a>
+  <!-- First Row: Overall Stats & Streak -->
+  <a href="https://github.com/Suman18-bit">
+    <img src="https://github-readme-stats.shion.dev/api?username=Suman18-bit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="195px" alt="Suman18-bit's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Suman18-bit">
+    <img src="https://streak-stats.demolab.com/?user=Suman18-bit&theme=tokyonight&hide_border=true" height="195px" alt="Suman18-bit's GitHub Streak"/>
+  </a>
 
-<br/><br/>
+  <br><br> <!-- Adds a clean gap between the rows -->
 
-<a href="https://github.com/Suman18-bit">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suman18-bit&theme=tokyonight&hide_border=true&layout=donut&title_color=A855F7&bg_color=0d1117&text_color=ffffff&langs_count=8" width="48%" alt="Top Languages" />
-</a>
-<a href="https://github.com/Suman18-bit">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suman18-bit&theme=tokyonight&utcOffset=5.5" width="48%" alt="Productive Time"/>
-</a>
+  <!-- Second Row: Top Languages & Productive Time -->
+  <a href="https://github.com/Suman18-bit">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Suman18-bit&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="195px" alt="Top Languages"/>
+  </a>
+  <a href="https://github.com/Suman18-bit">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suman18-bit&theme=tokyonight&utcOffset=5.5" height="195px" alt="Productive Time"/>
+  </a>
 
 </div>
-
-<br/>
 
 <!-- ─────────────────────────── ACHIEVEMENTS ─────────────────────────── -->
 
