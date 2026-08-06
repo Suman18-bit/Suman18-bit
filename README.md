@@ -1,19 +1,22 @@
+
 <!-- ══════════════════════════════════════════════════════════════════════════════
-                        ✨ SUMAN SETH — GITHUB PROFILE README ✨
-           Software Engineer · Data Scientist · ML Engineer · AI Builder
+                          ✨ SUMAN SETH — GITHUB PROFILE ✨
+              Software Engineer ✦ Data Scientist ✦ ML Engineer ✦ AI Builder
      ══════════════════════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=280&section=header&text=Suman%20Seth&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=✦%20Software%20Engineer%20✦%20Data%20Scientist%20✦%20ML%20Engineer%20✦&descAlignY=58&descSize=18" width="100%" alt="Suman Seth Header"/>
+</div>
+
 <!-- ─────────────────────────── GITSKINS HERO ─────────────────────────── -->
-<center>
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Suman18-bit&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/hero?username=Suman18-bit&theme=github-dark" alt="Suman Seth — Hero" />
   </picture>
-</p>
+</div>
 
 <!-- ─────────────────────────── ANIMATED TYPING INTRO ─────────────────────────── -->
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=780&height=60&lines=Hey+there!+I'm+Suman+Seth+👋;Software+Engineer+%7C+AI%2FML+Builder+💻;Turning+Raw+Data+into+Real+Intelligence+🧠;LangChain+%2B+RAG+%2B+LLM+Enthusiast+💡;Building+AI+that+actually+works+🚀;Open+to+Internships+%26+Full-time+Roles+💼)](https://git.io/typing-svg)
@@ -23,7 +26,6 @@
 <br/>
 
 <!-- ─────────────────────────── SOCIAL BADGES ─────────────────────────── -->
-
 <div align="center">
   <a href="https://www.linkedin.com/in/suman-seth-b05417324"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sethn533@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -44,15 +46,15 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
 
-<!-- GitSkins About widget -->
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Suman18-bit&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/about?username=Suman18-bit&theme=github-dark" alt="About Suman Seth" />
   </picture>
-</p>
+</div>
 
-<!-- Python-class personality block -->
+<br/>
+
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding GIF"/>
 
 ```python
@@ -112,15 +114,15 @@ print(me.say_hi())
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Tech Stack & Arsenal
 
-<!-- GitSkins stack widget -->
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Suman18-bit&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/stack?username=Suman18-bit&theme=github-dark" alt="Suman Seth Stack" />
   </picture>
-</p>
+</div>
 
-<!-- Detailed custom badge grid -->
+<br/>
+
 <div align="center">
 
 ### 💻 Backend · Deployment · Web
@@ -160,9 +162,9 @@ print(me.say_hi())
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="30" valign="middle"/> Verified Credentials
 
-<p align="center">
+<div align="center">
   <i>17 industry-recognized certifications validating expertise in AI, ML, Data Engineering & Professional Skills.</i>
-</p>
+</div>
 
 <details>
   <summary><b>🏆 Click to view all 17 Certifications</b></summary>
@@ -269,17 +271,16 @@ print(me.say_hi())
 
 ## <img src="https://media.giphy.com/media/RN2Uf7BvVaes8/giphy.gif" width="30"/> GitHub Stats
 
-<!-- GitSkins stats widget -->
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Suman18-bit&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/stats?username=Suman18-bit&theme=github-dark" alt="Suman Seth GitHub Stats" />
   </picture>
-</p>
+</div>
 
-<!-- Custom stats card row -->
+<br/>
+
 <div align="center">
-
   <a href="https://github.com/Suman18-bit">
     <img src="https://github-readme-stats.shion.dev/api?username=Suman18-bit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="195px" alt="GitHub Stats"/>
   </a>
@@ -292,27 +293,26 @@ print(me.say_hi())
   <a href="https://github.com/Suman18-bit">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Suman18-bit&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="195px" alt="Top Languages"/>
   </a>
-  <a href="https://github.com/Suman18-bit">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suman18-bit&theme=tokyonight&utcOffset=5.5" height="195px" alt="Productive Time"/>
-  </a>
 
 </div>
 
+<br/>
+
+<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168,85,247,0), rgba(168,85,247,0.75), rgba(34,211,238,0.75), rgba(168,85,247,0)); margin: 20px 0;">
+
 <!-- ─────────────────────────── ACHIEVEMENTS ─────────────────────────── -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Achievements & Activity
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suman18-bit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%"/>
-</a>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suman18-bit&theme=tokyo-night&hide_border=true&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=A855F7&custom_title=Contribution%20Activity" alt="Contribution Graph" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suman18-bit&theme=tokyo-night&hide_border=true&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=A855F7&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Suman18-bit/Suman18-bit/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/Suman18-bit/Suman18-bit/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="95%"/>
 
 </div>
 
@@ -324,79 +324,16 @@ print(me.say_hi())
 
 ## <img src="https://media.giphy.com/media/W5eKZfMSK7pDgOOP2j/giphy.gif" width="30"/> Featured Projects
 
-<!-- GitSkins projects widget -->
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Suman18-bit&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/projects?username=Suman18-bit&theme=github-dark" alt="Suman Seth Projects" />
   </picture>
-</p>
+</div>
 
-<!-- Detailed project pinned cards -->
+<br/>
+
 <div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📖 AskMyBook</h3>
-      <div align="center">
-        <a href="https://github.com/Suman18-bit/AskMyBook">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=AskMyBook&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="AskMyBook"/>
-        </a>
-        <p><i>Full-stack RAG web app — chat with any book. FastAPI + Mistral AI + ChromaDB, deployed live on Vercel.</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Mistral%20AI-FF7000?style=flat-square&logoColor=white"/>
-          <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white"/>
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 Deep Learning</h3>
-      <div align="center">
-        <a href="https://github.com/Suman18-bit/Deep-Learning">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=Deep-Learning&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="Deep Learning"/>
-        </a>
-        <p><i>Neural network architectures from scratch — Perceptron, ANN, CNN, RNN & LSTM with TF/PyTorch/Keras.</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🗣️ NLP — Natural Language Processing</h3>
-      <div align="center">
-        <a href="https://github.com/Suman18-bit/NLP---Natural-Language-Processing-">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=NLP---Natural-Language-Processing-&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="NLP"/>
-        </a>
-        <p><i>Hands-on NLP challenges — tokenization, embeddings, transformers & sentiment analysis.</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-          <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square"/>
-          <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Artificial Intelligence</h3>
-      <div align="center">
-        <a href="https://github.com/Suman18-bit/Artificial-Intelligence">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=Artificial-Intelligence&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="Artificial Intelligence"/>
-        </a>
-        <p><i>Creative hub for LangChain, RAG pipelines & generative AI experiments.</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-          <img src="https://img.shields.io/badge/RAG-AA00FF?style=flat-square&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Mistral%20AI-FF7000?style=flat-square&logoColor=white"/>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
@@ -412,10 +349,10 @@ print(me.say_hi())
 
 <!-- ─────────────────────────── DEV QUOTE ─────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Dev Quote of the Day
+## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30"/> Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="75%"/>
 </div>
 
 <br/>
@@ -424,15 +361,16 @@ print(me.say_hi())
 
 <!-- ─────────────────────────── CONNECT ─────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30"/> Let's Connect
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> Let's Connect
 
-<!-- GitSkins social widget -->
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Suman18-bit&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/social?username=Suman18-bit&theme=github-dark" alt="Social Links" />
   </picture>
-</p>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -469,4 +407,4 @@ print(me.say_hi())
 ⭐ **Star some repositories if you find them useful!** ⭐
 
 </div>
-</center>
+
