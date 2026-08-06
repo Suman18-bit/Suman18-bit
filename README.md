@@ -1,11 +1,16 @@
 <!-- ══════════════════════════════════════════════════════════════════════════════
-                          ✨ SUMAN SETH — GITHUB PROFILE ✨
-              Software Engineer ✦ Data Scientist ✦ ML Engineer ✦ AI Builder
+                        ✨ SUMAN SETH — GITHUB PROFILE README ✨
+           Software Engineer · Data Scientist · ML Engineer · AI Builder
      ══════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=280&section=header&text=Suman%20Seth&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=✦%20Software%20Engineer%20✦%20Data%20Scientist%20✦%20ML%20Engineer%20✦&descAlignY=58&descSize=18" width="100%" alt="Suman Seth Header"/>
-</div>
+<!-- ─────────────────────────── GITSKINS HERO ─────────────────────────── -->
+<center>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Suman18-bit&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=Suman18-bit&theme=github-dark" alt="Suman Seth — Hero" />
+  </picture>
+</p>
 
 <!-- ─────────────────────────── ANIMATED TYPING INTRO ─────────────────────────── -->
 
@@ -14,48 +19,61 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=780&height=60&lines=Hey+there!+I'm+Suman+Seth+👋;Software+Engineer+%7C+AI%2FML+Builder+💻;Turning+Raw+Data+into+Real+Intelligence+🧠;LangChain+%2B+RAG+%2B+LLM+Enthusiast+💡;Building+AI+that+actually+works+🚀;Open+to+Internships+%26+Full-time+Roles+💼)](https://git.io/typing-svg)
 
 </div>
+
 <br/>
 
 <!-- ─────────────────────────── SOCIAL BADGES ─────────────────────────── -->
 
 <div align="center">
-<a href="https://www.linkedin.com/in/suman-seth-b05417324"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sethn533@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.instagram.com/suman.seth.0007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://x.com/SumanSeth00018"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://www.facebook.com/suman.seth.0007"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=Suman18-bit&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Suman18-bit?style=for-the-badge&color=A855F7&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Suman18-bit?style=for-the-badge&color=A855F7&labelColor=0d1117&label=STARS" alt="Stars"/>
+  <a href="https://www.linkedin.com/in/suman-seth-b05417324"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sethn533@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.instagram.com/suman.seth.0007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://x.com/SumanSeth00018"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.facebook.com/suman.seth.0007"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Suman18-bit&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Suman18-bit?style=for-the-badge&color=A855F7&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Suman18-bit?style=for-the-badge&color=A855F7&labelColor=0d1117&label=STARS" alt="Stars"/>
 </div>
 
 <br/>
 
-<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168, 85, 247, 0), rgba(168, 85, 247, 0.75), rgba(34, 211, 238, 0.75), rgba(168, 85, 247, 0)); margin: 20px 0;">
+<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168,85,247,0), rgba(168,85,247,0.75), rgba(34,211,238,0.75), rgba(168,85,247,0)); margin: 20px 0;">
 
 <!-- ─────────────────────────── ABOUT ME ─────────────────────────── -->
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Coding GIF"/>
+<!-- GitSkins About widget -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Suman18-bit&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=Suman18-bit&theme=github-dark" alt="About Suman Seth" />
+  </picture>
+</p>
+
+<!-- Python-class personality block -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding GIF"/>
 
 ```python
 class SumanSeth:
     """
-    Software Engineer & AI builder turning raw data into intelligent decisions.
+    Software Engineer & AI builder turning raw data
+    into intelligent, production-ready decisions.
     """
     def __init__(self):
-        self.name        = "Suman Seth"
-        self.role        = "B.Tech CSE Student | Software Engineer | Data Scientist & ML Engineer"
-        self.location    = "India 🇮🇳"
-        self.education   = "Swami Vivekananda University (Class of 2028)"
-        self.languages   = ["Python", "C", "C++", "Kotlin", "PHP"]
-        self.dev_stack   = ["FastAPI", "Streamlit", "Docker", "Git", "REST APIs"]
-        self.ai_stack    = ["TensorFlow", "PyTorch", "Keras", "scikit-learn", "LangChain"]
-        self.interests   = ["Generative AI", "RAG Pipelines", "LLM Engineering", "NLP"]
-        self.currently   = "🚀 Building and shipping AI-powered real-world applications"
-        self.open_to     = "💼 Software Engineering & AI/ML Internships / Full-time Roles"
+        self.name      = "Suman Seth"
+        self.role      = "B.Tech CSE (AI/ML) · Software Engineer · ML Engineer"
+        self.location  = "India 🇮🇳"
+        self.education = "Swami Vivekananda University — Class of 2028"
+        self.languages = ["Python", "C", "C++", "Kotlin", "PHP"]
+        self.dev_stack = ["FastAPI", "Streamlit", "Docker", "Git", "REST APIs"]
+        self.ai_stack  = ["TensorFlow", "PyTorch", "Keras",
+                          "scikit-learn", "LangChain", "HuggingFace"]
+        self.interests = ["Generative AI", "RAG Pipelines",
+                          "LLM Engineering", "NLP", "Computer Vision"]
+        self.learning  = "LLM Orchestration · Transformers · System Design"
+        self.open_to   = "💼 AI/ML & Software Engineering Internships / Full-time"
 
     def say_hi(self) -> str:
         return "Thanks for visiting! Let's build something amazing 🤝"
@@ -72,15 +90,15 @@ print(me.say_hi())
 
 <div align="center">
 
-| 💻 Role | 🔭 Currently Working On |
+| 💻 Role | 🔭 Currently Building |
 | :---: | :---: |
-| **Software Engineer · AI/ML Engineer** | **RAG pipelines & LangChain-based AI apps** |
+| **Software Engineer · AI/ML Engineer** | **RAG pipelines & LangChain-powered AI apps** |
 
 | 🌱 Currently Learning | 💬 Ask Me About |
 | :---: | :---: |
 | **LLM Orchestration, Transformers & System Design** | Python · FastAPI · LangChain · RAG · NLP |
 
-| 🎓 Education | 📫 How To Reach Me |
+| 🎓 Education | 📫 Reach Me |
 | :---: | :---: |
 | [Swami Vivekananda University](https://www.swamivivekanandauniversity.ac.in/) | [sethn533@gmail.com](mailto:sethn533@gmail.com) |
 
@@ -88,15 +106,24 @@ print(me.say_hi())
 
 <br/>
 
-<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168, 85, 247, 0), rgba(168, 85, 247, 0.75), rgba(34, 211, 238, 0.75), rgba(168, 85, 247, 0)); margin: 20px 0;">
+<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168,85,247,0), rgba(168,85,247,0.75), rgba(34,211,238,0.75), rgba(168,85,247,0)); margin: 20px 0;">
 
 <!-- ─────────────────────────── TECH STACK ─────────────────────────── -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Tech Stack & Arsenal
 
+<!-- GitSkins stack widget -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Suman18-bit&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=Suman18-bit&theme=github-dark" alt="Suman Seth Stack" />
+  </picture>
+</p>
+
+<!-- Detailed custom badge grid -->
 <div align="center">
 
-### 💻 Software Engineering · Backend · Deployment
+### 💻 Backend · Deployment · Web
 <img src="https://skillicons.dev/icons?i=fastapi,django,html,css,js,php&theme=dark" alt="Web Stack"/><br/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
@@ -127,22 +154,19 @@ print(me.say_hi())
 
 <br/>
 
-<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168, 85, 247, 0), rgba(168, 85, 247, 0.75), rgba(34, 211, 238, 0.75), rgba(168, 85, 247, 0)); margin: 20px 0;">
+<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168,85,247,0), rgba(168,85,247,0.75), rgba(34,211,238,0.75), rgba(168,85,247,0)); margin: 20px 0;">
 
 <!-- ─────────────────────────── VERIFIED CREDENTIALS ─────────────────────────── -->
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="30" valign="middle"/> 
-  Verified Credentials
-</h2>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="30" valign="middle"/> Verified Credentials
 
 <p align="center">
-  <i>17 industry-recognized certifications validating expertise in AI, ML, Data Engineering, and Professional Skills.</i>
+  <i>17 industry-recognized certifications validating expertise in AI, ML, Data Engineering & Professional Skills.</i>
 </p>
 
 <details>
   <summary><b>🏆 Click to view all 17 Certifications</b></summary>
   <br>
-  
   <table width="100%">
     <tr>
       <th align="left">#</th>
@@ -152,107 +176,119 @@ print(me.say_hi())
     <tr>
       <td>1</td>
       <td><a href="https://www.linkedin.com/learning/certificates/bf465ef58a51fc2316cc5399ad74ff0ab61fbeaf8907ce5cfe39f466ef211fb4?trk=share_certificate">Advance Your Skills in NLP</a></td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #0A66C2) drop-shadow(0px 0px 8px #0A66C2);" valign="middle"/> LinkedIn</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="16" valign="middle" style="filter:drop-shadow(0 0 4px #0A66C2)"/> LinkedIn</td>
     </tr>
     <tr>
       <td>2</td>
       <td><a href="https://www.linkedin.com/learning/certificates/3b23642d05e7a30aaae43aeadad8927b34f03aefe9200262ced2f4691ed79d1b?trk=share_certificate">Generative AI: Working with LLMs</a></td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #0A66C2) drop-shadow(0px 0px 8px #0A66C2);" valign="middle"/> LinkedIn</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="16" valign="middle" style="filter:drop-shadow(0 0 4px #0A66C2)"/> LinkedIn</td>
     </tr>
     <tr>
       <td>3</td>
       <td><a href="https://www.linkedin.com/learning/certificates/0c520073b3f55c9687976932f12c9d4697c71d5b49084f3ba580fb9a66013cd0?trk=share_certificate">Deep Learning with TensorFlow</a></td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #0A66C2) drop-shadow(0px 0px 8px #0A66C2);" valign="middle"/> LinkedIn</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="16" valign="middle" style="filter:drop-shadow(0 0 4px #0A66C2)"/> LinkedIn</td>
     </tr>
     <tr>
       <td>4</td>
       <td><a href="https://www.linkedin.com/learning/certificates/5c92b2dde5ae0edb8eb46d8e95c2e50b8f6c8f41398878984aa44f07b6bb46e3?trk=share_certificate">Hands-On NLP</a></td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #0A66C2) drop-shadow(0px 0px 8px #0A66C2);" valign="middle"/> LinkedIn</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="16" valign="middle" style="filter:drop-shadow(0 0 4px #0A66C2)"/> LinkedIn</td>
     </tr>
     <tr>
       <td>5</td>
       <td><a href="https://www.linkedin.com/learning/certificates/78a04c2472c416fae55808f62117ffc817619a63dd7fd3c6b944b3c33c07fc1e">Advanced NLP with Python for ML</a></td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #0A66C2) drop-shadow(0px 0px 8px #0A66C2);" valign="middle"/> LinkedIn</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="16" valign="middle" style="filter:drop-shadow(0 0 4px #0A66C2)"/> LinkedIn</td>
     </tr>
     <tr>
       <td>6</td>
       <td><a href="https://www.credly.com/badges/e8143d80-3a84-4e47-9ae8-3f5d7ec8e984/public_url">AI Skills Fest 2026</a></td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoft.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #F25022) drop-shadow(0px 0px 8px #F25022);" valign="middle"/> Microsoft</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoft.svg" width="16" valign="middle" style="filter:drop-shadow(0 0 4px #F25022)"/> Microsoft</td>
     </tr>
     <tr>
       <td>7</td>
       <td><a href="https://learn.saylor.org/pluginfile.php/1/tool_certificate/issues/1780985338/2581125304SS.pdf">Fundamentals of Machine Learning</a></td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/readthedocs.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #8CA1AF) drop-shadow(0px 0px 8px #8CA1AF);" valign="middle"/> Saylor University</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/readthedocs.svg" width="16" valign="middle"/> Saylor University</td>
     </tr>
     <tr>
       <td>8</td>
       <td><a href="https://www.mygreatlearning.com/certificate/QEXVYHTL?referrer_code=GLKQH7LG">Python for Machine Learning</a></td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #4285F4) drop-shadow(0px 0px 8px #4285F4);" valign="middle"/> Great Learning</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" width="16" valign="middle" style="filter:drop-shadow(0 0 4px #4285F4)"/> Great Learning</td>
     </tr>
     <tr>
       <td>9</td>
       <td><a href="https://www.credly.com/badges/a3f6b4fb-84ce-4ae2-960b-48a0b289c06d">AI Upskilling: Technical Foundations</a></td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/qualcomm.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #3253DC) drop-shadow(0px 0px 8px #3253DC);" valign="middle"/> Qualcomm</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/qualcomm.svg" width="16" valign="middle" style="filter:drop-shadow(0 0 4px #3253DC)"/> Qualcomm</td>
     </tr>
     <tr>
       <td>10</td>
       <td><a href="https://learn.microsoft.com/api/achievements/share/en-us/SUMANSETH-3817/NQVJSKKF?sharingId=F1049524A3B932C3">Data Engineer Career Path</a></td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoft.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #F25022) drop-shadow(0px 0px 8px #F25022);" valign="middle"/> Microsoft</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoft.svg" width="16" valign="middle" style="filter:drop-shadow(0 0 4px #F25022)"/> Microsoft</td>
     </tr>
     <tr>
       <td>11</td>
       <td><a href="https://www.linkedin.com/learning/certificates/3fcc504c1071c3bb201fd3345c9da44095df158dd046a537b82d56a2ffa4d4f2/">Career Skills in Data Analytics</a></td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #0A66C2) drop-shadow(0px 0px 8px #0A66C2);" valign="middle"/> LinkedIn</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="16" valign="middle" style="filter:drop-shadow(0 0 4px #0A66C2)"/> LinkedIn</td>
     </tr>
     <tr>
       <td>12</td>
       <td><a href="https://simpli.app.link/uXChgFNuq3b">Introduction to SQL</a></td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #FF3621) drop-shadow(0px 0px 8px #FF3621);" valign="middle"/> Simplilearn</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/databricks.svg" width="16" valign="middle" style="filter:drop-shadow(0 0 4px #FF3621)"/> Simplilearn</td>
     </tr>
     <tr>
       <td>13</td>
       <td><a href="https://simpli.app.link/CWctT2FWp3b">Business Analytics with Excel</a></td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #107C41) drop-shadow(0px 0px 8px #107C41);" valign="middle"/> Microsoft</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg" width="16" valign="middle" style="filter:drop-shadow(0 0 4px #107C41)"/> Microsoft</td>
     </tr>
     <tr>
       <td>14</td>
       <td><a href="https://unstop.com/certificate-preview/9595621f-fc33-476a-95a2-0a731d4df349">Operating System (OS)</a></td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gnubash.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #4EAA25) drop-shadow(0px 0px 8px #4EAA25);" valign="middle"/> Unstop</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gnubash.svg" width="16" valign="middle" style="filter:drop-shadow(0 0 4px #4EAA25)"/> Unstop</td>
     </tr>
     <tr>
       <td>15</td>
       <td><a href="https://unstop.com/certificate-preview/3dae90d3-b82f-4924-8df7-8157d182d804">Probability Foundations</a></td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wolframmathematica.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #DD1111) drop-shadow(0px 0px 8px #DD1111);" valign="middle"/> Unstop</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wolframmathematica.svg" width="16" valign="middle" style="filter:drop-shadow(0 0 4px #DD1111)"/> Unstop</td>
     </tr>
     <tr>
       <td>16</td>
       <td>Professional Networking</td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hp.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #0096D6) drop-shadow(0px 0px 8px #0096D6);" valign="middle"/> HP</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hp.svg" width="16" valign="middle" style="filter:drop-shadow(0 0 4px #0096D6)"/> HP</td>
     </tr>
     <tr>
       <td>17</td>
       <td><a href="https://unstop.com/certificate-preview/8b1f0131-5ea6-4ba7-acea-98c9fa17fb14">Kascade, Kshitij 2026</a></td>
-      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/starship.svg" width="18" height="18" style="filter: drop-shadow(0px 0px 4px #0052CC) drop-shadow(0px 0px 8px #0052CC);" valign="middle"/> Unstop</td>
+      <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/starship.svg" width="16" valign="middle" style="filter:drop-shadow(0 0 4px #0052CC)"/> Unstop</td>
     </tr>
   </table>
 </details>
 
 <br/>
 
-<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168, 85, 247, 0), rgba(168, 85, 247, 0.75), rgba(34, 211, 238, 0.75), rgba(168, 85, 247, 0)); margin: 20px 0;">
+<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168,85,247,0), rgba(168,85,247,0.75), rgba(34,211,238,0.75), rgba(168,85,247,0)); margin: 20px 0;">
 
+<!-- ─────────────────────────── GITHUB STATS ─────────────────────────── -->
 
-  <!-- First Row: Overall Stats & Streak -->
+## <img src="https://media.giphy.com/media/RN2Uf7BvVaes8/giphy.gif" width="30"/> GitHub Stats
+
+<!-- GitSkins stats widget -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Suman18-bit&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=Suman18-bit&theme=github-dark" alt="Suman Seth GitHub Stats" />
+  </picture>
+</p>
+
+<!-- Custom stats card row -->
+<div align="center">
+
   <a href="https://github.com/Suman18-bit">
-    <img src="https://github-readme-stats.shion.dev/api?username=Suman18-bit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="195px" alt="Suman18-bit's GitHub Stats"/>
+    <img src="https://github-readme-stats.shion.dev/api?username=Suman18-bit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="195px" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/Suman18-bit">
-    <img src="https://streak-stats.demolab.com/?user=Suman18-bit&theme=tokyonight&hide_border=true" height="195px" alt="Suman18-bit's GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=Suman18-bit&theme=tokyonight&hide_border=true" height="195px" alt="GitHub Streak"/>
   </a>
 
-  <br><br> <!-- Adds a clean gap between the rows -->
+  <br/><br/>
 
-  <!-- Second Row: Top Languages & Productive Time -->
   <a href="https://github.com/Suman18-bit">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Suman18-bit&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="195px" alt="Top Languages"/>
   </a>
@@ -264,32 +300,39 @@ print(me.say_hi())
 
 <!-- ─────────────────────────── ACHIEVEMENTS ─────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/RN2Uf7BvVaes8/giphy.gif" width="30"/> Achievements & Activity
-
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suman18-bit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Suman18-bit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suman18-bit&theme=tokyo-night&hide_border=true&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=A855F7&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suman18-bit&theme=tokyo-night&hide_border=true&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=A855F7&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Suman18-bit/Suman18-bit/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/Suman18-bit/Suman18-bit/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 
 </div>
 
 <br/>
 
-<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168, 85, 247, 0), rgba(168, 85, 247, 0.75), rgba(34, 211, 238, 0.75), rgba(168, 85, 247, 0)); margin: 20px 0;">
+<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168,85,247,0), rgba(168,85,247,0.75), rgba(34,211,238,0.75), rgba(168,85,247,0)); margin: 20px 0;">
 
 <!-- ─────────────────────────── FEATURED PROJECTS ─────────────────────────── -->
 
 ## <img src="https://media.giphy.com/media/W5eKZfMSK7pDgOOP2j/giphy.gif" width="30"/> Featured Projects
 
+<!-- GitSkins projects widget -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Suman18-bit&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=Suman18-bit&theme=github-dark" alt="Suman Seth Projects" />
+  </picture>
+</p>
+
+<!-- Detailed project pinned cards -->
 <div align="center">
 
 <table>
@@ -298,9 +341,9 @@ print(me.say_hi())
       <h3 align="center">📖 AskMyBook</h3>
       <div align="center">
         <a href="https://github.com/Suman18-bit/AskMyBook">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=AskMyBook&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="AskMyBook" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=AskMyBook&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="AskMyBook"/>
         </a>
-        <p><i>A deployed full-stack RAG web app that lets you chat with a book — FastAPI backend + Mistral AI + ChromaDB, live on Vercel.</i></p>
+        <p><i>Full-stack RAG web app — chat with any book. FastAPI + Mistral AI + ChromaDB, deployed live on Vercel.</i></p>
         <p>
           <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
           <img src="https://img.shields.io/badge/Mistral%20AI-FF7000?style=flat-square&logoColor=white"/>
@@ -312,9 +355,9 @@ print(me.say_hi())
       <h3 align="center">🧠 Deep Learning</h3>
       <div align="center">
         <a href="https://github.com/Suman18-bit/Deep-Learning">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=Deep-Learning&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="Deep Learning" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=Deep-Learning&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="Deep Learning"/>
         </a>
-        <p><i>Neural network architectures from scratch — Perceptron, ANN, CNN, RNN & LSTM.</i></p>
+        <p><i>Neural network architectures from scratch — Perceptron, ANN, CNN, RNN & LSTM with TF/PyTorch/Keras.</i></p>
         <p>
           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -328,7 +371,7 @@ print(me.say_hi())
       <h3 align="center">🗣️ NLP — Natural Language Processing</h3>
       <div align="center">
         <a href="https://github.com/Suman18-bit/NLP---Natural-Language-Processing-">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=NLP---Natural-Language-Processing-&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="NLP" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=NLP---Natural-Language-Processing-&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="NLP"/>
         </a>
         <p><i>Hands-on NLP challenges — tokenization, embeddings, transformers & sentiment analysis.</i></p>
         <p>
@@ -339,12 +382,12 @@ print(me.say_hi())
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 Artificial-Intelligence</h3>
+      <h3 align="center">🎨 Artificial Intelligence</h3>
       <div align="center">
         <a href="https://github.com/Suman18-bit/Artificial-Intelligence">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=Artificial-Intelligence&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="Artificial Intelligence" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suman18-bit&repo=Artificial-Intelligence&theme=tokyonight&hide_border=true&title_color=A855F7&bg_color=0d1117&text_color=ffffff&icon_color=A855F7" width="100%" alt="Artificial Intelligence"/>
         </a>
-        <p><i>A creative hub for LangChain, RAG pipelines & generative AI experiments.</i></p>
+        <p><i>Creative hub for LangChain, RAG pipelines & generative AI experiments.</i></p>
         <p>
           <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
           <img src="https://img.shields.io/badge/RAG-AA00FF?style=flat-square&logoColor=white"/>
@@ -365,29 +408,37 @@ print(me.say_hi())
 
 <br/>
 
-<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168, 85, 247, 0), rgba(168, 85, 247, 0.75), rgba(34, 211, 238, 0.75), rgba(168, 85, 247, 0)); margin: 20px 0;">
+<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168,85,247,0), rgba(168,85,247,0.75), rgba(34,211,238,0.75), rgba(168,85,247,0)); margin: 20px 0;">
 
-<!-- ─────────────────────────── QUOTE ─────────────────────────── -->
+<!-- ─────────────────────────── DEV QUOTE ─────────────────────────── -->
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Dev Quote of the Day
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
 <br/>
 
-<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168, 85, 247, 0), rgba(168, 85, 247, 0.75), rgba(34, 211, 238, 0.75), rgba(168, 85, 247, 0)); margin: 20px 0;">
+<hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(168,85,247,0), rgba(168,85,247,0.75), rgba(34,211,238,0.75), rgba(168,85,247,0)); margin: 20px 0;">
 
 <!-- ─────────────────────────── CONNECT ─────────────────────────── -->
 
 ## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30"/> Let's Connect
 
+<!-- GitSkins social widget -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Suman18-bit&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=Suman18-bit&theme=github-dark" alt="Social Links" />
+  </picture>
+</p>
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" alt="Wave"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" alt="Wave"/>
 
-<h3>💜 I'm always open to interesting conversations, collaborations, or a friendly hello!</h3>
+<h3>💜 Always open to conversations, collaborations, or a friendly hello!</h3>
 
 <a href="https://www.linkedin.com/in/suman-seth-b05417324">
   <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -418,4 +469,4 @@ print(me.say_hi())
 ⭐ **Star some repositories if you find them useful!** ⭐
 
 </div>
-```
+</center>
