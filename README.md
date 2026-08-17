@@ -308,15 +308,13 @@ public class SumanSeth {
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Achievements & Activity
 
 <div align="center">
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suman18-bit&theme=tokyo-night&hide_border=true&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=A855F7&custom_title=Contribution%20Activity" alt="Contribution Graph" width="95%"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Suman18-bit/Suman18-bit/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="95%"/>
-
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suman18-bit&theme=tokyo-night&hide_border=true&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=A855F7&custom_title=Contribution%20Activity" alt="Contribution Graph" width="95%"/>
+  
+  <br/><br/>
+  
+  <img src="https://raw.githubusercontent.com/Suman18-bit/Suman18-bit/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="95%"/>
+  
 </div>
 
 <br/>
