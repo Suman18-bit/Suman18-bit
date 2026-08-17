@@ -1,4 +1,3 @@
-
 <!-- ══════════════════════════════════════════════════════════════════════════════
                           ✨ SUMAN SETH — GITHUB PROFILE ✨
               Software Engineer ✦ Data Scientist ✦ ML Engineer ✦ AI Builder
@@ -68,7 +67,7 @@ class SumanSeth:
         self.role      = "B.Tech CSE (AI/ML) · Software Engineer · ML Engineer"
         self.location  = "India 🇮🇳"
         self.education = "Swami Vivekananda University — Class of 2028"
-        self.languages = ["Python", "C", "C++", "Kotlin", "PHP"]
+        self.languages = ["Python", "C", "C++", "Java", "PHP"]
         self.dev_stack = ["FastAPI", "Streamlit", "Docker", "Git", "REST APIs"]
         self.ai_stack  = ["TensorFlow", "PyTorch", "Keras",
                           "scikit-learn", "LangChain", "HuggingFace"]
@@ -149,7 +148,7 @@ print(me.say_hi())
 <br/>
 
 ### 🛠️ Languages · Tools · Cloud
-<img src="https://skillicons.dev/icons?i=c,cpp,kotlin,docker,git,github,gcp,postgres,vscode,linux&theme=dark" alt="Tools"/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,docker,git,github,gcp,postgres,vscode,linux&theme=dark" alt="Tools"/><br/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white"/>
 
 </div>
@@ -407,4 +406,3 @@ print(me.say_hi())
 ⭐ **Star some repositories if you find them useful!** ⭐
 
 </div>
-
