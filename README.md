@@ -54,37 +54,41 @@
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding GIF"/>
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
 
-```python
-class SumanSeth:
-    """
-    Software Engineer & AI builder turning raw data
-    into intelligent, production-ready decisions.
-    """
-    def __init__(self):
-        self.name      = "Suman Seth"
-        self.role      = "B.Tech CSE (AI/ML) · Software Engineer · ML Engineer"
-        self.location  = "India 🇮🇳"
-        self.education = "Swami Vivekananda University — Class of 2028"
-        self.languages = ["Python", "C", "C++", "Java", "PHP"]
-        self.dev_stack = ["FastAPI", "Streamlit", "Docker", "Git", "REST APIs"]
-        self.ai_stack  = ["TensorFlow", "PyTorch", "Keras",
-                          "scikit-learn", "LangChain", "HuggingFace"]
-        self.interests = ["Generative AI", "RAG Pipelines",
-                          "LLM Engineering", "NLP", "Computer Vision"]
-        self.learning  = "LLM Orchestration · Transformers · System Design"
-        self.open_to   = "💼 AI/ML & Software Engineering Internships / Full-time"
+```java
+public class SumanSeth {
+    /*
+     * Software Engineer & AI builder turning raw data
+     * into intelligent, production-ready decisions.
+     */
+    private String name      = "Suman Seth";
+    private String role      = "B.Tech CSE (AI/ML) · Software Engineer · ML Engineer";
+    private String location  = "India 🇮🇳";
+    private String education = "Swami Vivekananda University — Class of 2028";
+    
+    private String[] languages = {"Python", "C", "C++", "Java", "PHP"};
+    private String[] devStack  = {"FastAPI", "Streamlit", "Docker", "Git", "REST APIs"};
+    private String[] aiStack   = {"TensorFlow", "PyTorch", "Keras", 
+                                  "scikit-learn", "LangChain", "HuggingFace"};
+    private String[] interests = {"Generative AI", "RAG Pipelines", 
+                                 "LLM Engineering", "NLP", "Computer Vision"};
+    
+    private String learning = "LLM Orchestration · Transformers · System Design";
+    private String openTo   = "💼 AI/ML & Software Engineering Internships / Full-time";
 
-    def say_hi(self) -> str:
-        return "Thanks for visiting! Let's build something amazing 🤝"
+    public static void main(String[] args) {
+        SumanSeth me = new SumanSeth();
+        System.out.println(me.sayHi());
+    }
 
-me = SumanSeth()
-print(me.say_hi())
+    public String sayHi() {
+        return "Thanks for visiting! Let's build something amazing 🤝";
+    }
+}
 ```
-
-<br clear="right"/>
-
 <!-- ─────────────────────────── QUICK FACTS ─────────────────────────── -->
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> Quick Facts
